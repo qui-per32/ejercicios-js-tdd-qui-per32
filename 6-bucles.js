@@ -17,7 +17,11 @@ console.log('El array original es:  arr =', arr);
 
 // Aquí tu código
 
+let dobleArr = [];
 
+for (const item of arr) {
+    dobleArr.push(item * 2);
+}
 
 // Hasta aquí
 

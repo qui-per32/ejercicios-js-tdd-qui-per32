@@ -5,8 +5,17 @@
 
 
 // Aquí tu código
-
-
+var a, b, c;
+let arr = [a = {
+    name: "pepito",
+    age: 25
+}, b = {
+    name: "pepito",
+    age: 20
+}, c = {
+    name: "Jorge",
+    age: 18
+}]
 
 // Hasta aquí
 

@@ -6,6 +6,15 @@
 
 // Aquí tu código
 
+let obj = {
+    a: {
+        b: true,
+        c: [1,2],
+    },
+    d: 5,
+    f: 'hola',
+}
+
 
 // Hasta aquí
 

@@ -11,7 +11,11 @@ console.log('El array frase es: ', frase);
 
 // Aquí tu código
 
+let acronimo = "";
 
+for (const item of frase) {
+    acronimo = acronimo + item[0].toUpperCase();
+}
 
 // Hasta aquí
 
